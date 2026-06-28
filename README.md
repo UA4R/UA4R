@@ -8,7 +8,7 @@ I'm a passionate Cybersecurity Analyst || SOC Analyst || Cloud Security Speciali
 - 🔭 Working on: **[Hands on Diagnosis]**
 - 🌍 Languages: **[English, Spanish, Swahili, Japanese]**
 - 📫 How to reach me: **[Aaron3002@protonmail.com]**
-- ⚡ Fun fact: **[I Love talking about future quantam security problems]**
+- ⚡ Fun fact: **[I Love talking about future quantam computing security problems]**
 
 ## My Skills 🧠
 
