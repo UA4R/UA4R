@@ -5,7 +5,7 @@
 I'm a passionate Cybersecurity Analyst || SOC Analyst || Cloud Security Specialist with experience in **[Cloud Technologies]**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
 - 🌱 Currently learning: **[AI Security]**
-- 🔭 Working on: **[Lab Works]**
+- 🔭 Working on: **[Hands on Diagnosis]**
 - 🌍 Languages: **[English, Spanish, Swahili, Japanese]**
 - 📫 How to reach me: **[Aaron3002@protonmail.com]**
 - ⚡ Fun fact: **[I Love Crazy Ideas]**
