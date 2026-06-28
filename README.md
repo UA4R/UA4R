@@ -1,10 +1,10 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm Aaron Tito! 👋
 
 ![Banner Image](your_banner_image_url_here)
 
 ## About Me 🚀
 
-I'm a passionate **[Your Job Title / Developer Role]** with experience in **[technologies you're proficient in]**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+I'm a passionate Cybersecurity Analyst || SOC Analyst || Cloud Security Specialist with experience in **[technologies you're proficient in]**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
 - 🌱 Currently learning: **[new technologies or skills you're currently learning]**
 - 🔭 Working on: **[current projects or side-projects]**
@@ -39,7 +39,7 @@ I'm a passionate **[Your Job Title / Developer Role]** with experience in **[tec
 ## Get in Touch 📬
 
 - **[Personal Website / Blog]**(your_website_or_blog_link)
-- **[LinkedIn]**(your_linkedin_profile_link)
-- **[Twitter]**(your_twitter_profile_link)
+- **[LinkedIn]**(www.linkedin.com/in/aaron-tito-8a5650405)
+
 
 
