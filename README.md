@@ -14,7 +14,7 @@ I'm a passionate Cybersecurity Analyst || SOC Analyst || Cloud Security Speciali
 
 Cyber Threat Interlligence, Cyber Security Assessment, Governance Risk and Compliance, Operation System Administration, Network Security, Networking Hardware, Email Security, Digital Forensics, Malware Protection, IT Service Management, Cloud Computing, Incident Response, Identity and Access Management, Database Management
 
-## Featured Projects 💻
+## My Projects 💻
 
 ## Get in Touch 📬
 
