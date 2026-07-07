@@ -18,7 +18,7 @@ Cyber Threat Interlligence, Cyber Security Assessment, Governance Risk and Compl
 
 ## Get in Touch 📬
 
-- **[Personal Website / Blog]**(your_website_or_blog_link)
+- **[Personal Website / Blog]**(Coming Soon)
 - **[LinkedIn]**(www.linkedin.com/in/aarontito)
 
 
