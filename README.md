@@ -20,8 +20,8 @@ To access my github projects just click on **REPOSITORIES** on the top bar or cl
 
 ## Get in Touch 📬
 
-- **[Personal Website / Blog]**(Coming Soon)
-- **[LinkedIn]**(www.linkedin.com/in/aarontito)
+- **Portfolio**(Coming Soon)
+- **In**(www.linkedin.com/in/aarontito)
 
 
 
