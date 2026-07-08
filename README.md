@@ -16,7 +16,7 @@ Cyber Threat Interlligence, Cyber Security Assessment, Governance Risk and Compl
 
 ## My Projects 💻
 
-To access my github projects just click on REPOSITORIES on the top bar or click on this link ![image_alt](https://github.com/UA4R?tab=repositories) to access them.
+To access my github projects just click on REPOSITORIES on the top bar or click on this link ![image_alt](https://p7.hiclipart.com/preview/588/74/563/github-computer-icons-github.jpg) to access them.
 
 ## Get in Touch 📬
 
