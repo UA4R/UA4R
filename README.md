@@ -4,7 +4,7 @@
 
 I'm a passionate SOC Analyst | Cloud Security Specialist with depth in **[AWS Infrastructure]**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
-- 🌱 Currently learning: **[AI Security]**
+- 🌱 Currently learning: **[AI Security & Governance]**
 - 🔭 Working on: **[Hands on Diagnosis]**
 - 🌍 Languages: **[English, Spanish, Swahili, Japanese]**
 - 📫 How to reach me: **[Aaron3002@protonmail.com]**
