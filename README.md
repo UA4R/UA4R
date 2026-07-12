@@ -2,7 +2,7 @@
 
 ## About Me 🚀
 
-I'm a passionate SOC Analyst | Cloud Security Specialist with depth in **[AWS Infrastructure]**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+I'm a passionate Cybersecurity analyst | SOC Analyst with depth in **[IBM Technologies]**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
 - 🌱 Currently learning: **[AI Security & Governance]**
 - 🔭 Working on: **[Hands on Diagnosis]**
