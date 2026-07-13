@@ -4,7 +4,7 @@
 
 I'm a passionate Cybersecurity analyst | SOC Analyst with depth in **[IBM Technologies]**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
-- 🌱 Currently learning: **[AI Security & Governance]**
+- 🌱 Currently learning: **[Cloud Security]**
 - 🔭 Working on: **[Hands on Diagnosis]**
 - 🌍 Languages: **[English, Spanish, Swahili, Japanese]**
 - 📫 How to reach me: **[Aaron3002@protonmail.com]**
