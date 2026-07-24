@@ -1,31 +1,4 @@
-# <svg width="560" height="60" viewBox="0 0 560 60" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <clipPath id="revealText">
-      <rect x="0" y="0" width="0" height="60">
-        <animate attributeName="width" from="0" to="400" dur="3.2s" fill="freeze" calcMode="linear"/>
-      </rect>
-    </clipPath>
-  </defs>
-
-  <!-- Typed sentence: bold, white, left-aligned, plays once -->
-  <g clip-path="url(#revealText)">
-    <text x="10" y="38"
-          font-family="'Poppins', 'Segoe UI', 'Helvetica Neue', Arial, sans-serif"
-          font-weight="700"
-          font-size="24"
-          fill="#FFFFFF"
-          text-anchor="start">
-      Hi there, I'm Aaron Tito! 👋
-    </text>
-  </g>
-
-  <!-- Cursor: appears once typing finishes, then blinks gently at rest -->
-  <text x="400" y="38" font-weight="700" font-size="24" fill="#FFFFFF" opacity="0">
-    <animate attributeName="opacity" from="0" to="1" begin="3.2s" dur="0.01s" fill="freeze"/>
-    <animate attributeName="opacity" values="1;0;1" keyTimes="0;0.5;1" begin="3.2s" dur="1s" repeatCount="indefinite"/>
-    |
-  </text>
-</svg>
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=24&color=FFFFFF&center=false&vCenter=true&width=500&repeat=false&duration=8000&letterSpacing=1px&lines=Hi+there%2C+I'm+Aaron+Tito!+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 ## About Me 🚀
 
