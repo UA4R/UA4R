@@ -2,7 +2,7 @@
 
 ## About Me 🚀
 
-I'm a passionate SOC Analyst with depth in **[IBM Technologies]**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+I'm a passionate SOC Analyst with depth in **[AWS Technologies]**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
 - 🌱 Currently learning: **[Cloud Security]**
 - 🔭 Working on: **[Hands on Diagnosis]**
