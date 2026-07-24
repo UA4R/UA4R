@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FF9C&center=false&vCenter=true&width=500&repeat=false&lines=Hi+there%2C+I'm+Aaron+Tito!+%F0%9F%91%8B)](https://git.io/typing-svg)
+![Typing animation](typing-wave.svg)
 
 ## About Me 🚀
 
