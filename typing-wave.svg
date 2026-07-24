@@ -1,0 +1,35 @@
+<svg width="560" height="60" viewBox="0 0 560 60" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <clipPath id="revealText">
+      <rect x="0" y="0" width="0" height="60">
+        <animate attributeName="width" from="0" to="380" dur="2.6s" fill="freeze" calcMode="linear"/>
+      </rect>
+    </clipPath>
+  </defs>
+
+  <!-- Typed sentence (revealed left-to-right once, no loop) -->
+  <g clip-path="url(#revealText)">
+    <text x="10" y="38"
+          font-family="'Poppins', 'Segoe UI', 'Helvetica Neue', Arial, sans-serif"
+          font-weight="500"
+          font-size="24"
+          fill="#FFFFFF"
+          text-anchor="start">
+      Hi there, I'm Aaron Tito!
+    </text>
+  </g>
+
+  <!-- Waving hand emoji, appears once typing finishes, then waves a few times -->
+  <g opacity="0" transform-origin="375px 40px">
+    <animate attributeName="opacity" from="0" to="1" begin="2.6s" dur="0.01s" fill="freeze"/>
+    <animateTransform
+      attributeName="transform"
+      type="rotate"
+      values="0 375 40; 20 375 40; -15 375 40; 20 375 40; 0 375 40"
+      dur="0.9s"
+      begin="2.6s"
+      repeatCount="3"
+      fill="freeze"/>
+    <text x="365" y="38" font-size="26">👋</text>
+  </g>
+</svg>
