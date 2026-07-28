@@ -15,61 +15,46 @@ I'm a passionate SOC Analyst with depth in **[AWS Infrastructure]**. I love tack
 Cyber Threat Interlligence, Cyber Security Assessment, Governance Risk and Compliance, Operation System Administration, Network Security, Networking Hardware, Email Security, Digital Forensics, Malware Protection, IT Service Management, Cloud Computing, Incident Response, Identity and Access Management, Database Management
 
 ## My Projects 💻
-<table>
-<tr>
-<th>Title</th>
-<th>Category</th>
-<th>Project</th>
-<th>Tools Used</th>
-</tr>
-<tr>
-<td rowspan="3"><strong>SOC Analyst</strong></td>
-<td>SIEM / SOC Investigation</td>
-<td><a href="https://github.com/UA4R/Catching-The-Intruder-ELK-Based-SOC-Investigation">Catching the Intruder</a></td>
-<td>
-<img src="https://img.shields.io/badge/AWS-EC2-FF9900?style=flat&logo=amazonaws&logoColor=white">
-<img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=white">
-<br>
-<img src="https://img.shields.io/badge/Logstash-005571?style=flat&logo=logstash&logoColor=white">
-<img src="https://img.shields.io/badge/Kibana-005571?style=flat&logo=kibana&logoColor=white">
-<br>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black">
-</td>
-</tr>
-<tr>
-<td>AI-Augmented SOAR Pipeline</td>
-<td><a href="https://github.com/UA4R/The-Automated-Analyst-Building-an-AI-Augmented-SOAR-Pipeline-on-AWS">The Automated Analyst</a></td>
-<td>
-<img src="https://img.shields.io/badge/AWS-EC2-FF9900?style=flat&logo=amazonaws&logoColor=white">
-<img src="https://img.shields.io/badge/Ubuntu-24.04_LTS-E95420?style=flat&logo=ubuntu&logoColor=white">
-<br>
-<img src="https://img.shields.io/badge/Splunk-Enterprise-000000?style=flat&logo=splunk&logoColor=white">
-<img src="https://img.shields.io/badge/n8n-Workflow_Automation-EA4B71?style=flat&logo=n8n&logoColor=white">
-<br>
-<img src="https://img.shields.io/badge/Claude-Anthropic_API-D97757?style=flat&logo=anthropic&logoColor=white">
-<img src="https://img.shields.io/badge/Slack-Notifications-4A154B?style=flat&logo=slack&logoColor=white">
-<br>
-<img src="https://img.shields.io/badge/Python-paramiko-3776AB?style=flat&logo=python&logoColor=white">
-</td>
-</tr>
-<tr>
-<td>SOAR / EDR Automation</td>
-<td><a href="https://github.com/UA4R/Isolation-Status-SOAR-EDR-Project">Isolation Status</a></td>
-<td>
-<img src="https://img.shields.io/badge/AWS-EC2-FF9900?style=flat&logo=amazonaws&logoColor=white">
-<img src="https://img.shields.io/badge/Windows_Server-2022-0078D6?style=flat&logo=windows&logoColor=white">
-<br>
-<img src="https://img.shields.io/badge/LimaCharlie-EDR-1E2A38?style=flat&logoColor=white">
-<img src="https://img.shields.io/badge/Tines-SOAR-000000?style=flat&logoColor=white">
-<br>
-<img src="https://img.shields.io/badge/Slack-Notifications-4A154B?style=flat&logo=slack&logoColor=white">
-<img src="https://img.shields.io/badge/xsquare-Dummy_Email-6C757D?style=flat&logoColor=white">
-<br>
-<img src="https://img.shields.io/badge/LaZagne-HackTool-8B0000?style=flat&logoColor=white">
-</td>
-</tr>
-</table>
+<details>
+<summary><strong>🛡️ SOC Analyst</strong> — 3 projects</summary>
+
+#### SIEM / SOC Investigation
+**[Catching the Intruder](https://github.com/UA4R/Catching-The-Intruder-ELK-Based-SOC-Investigation)**
+
+![AWS EC2](https://img.shields.io/badge/AWS-EC2-FF9900?style=flat&logo=amazonaws&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=white)
+![Logstash](https://img.shields.io/badge/Logstash-005571?style=flat&logo=logstash&logoColor=white)
+![Kibana](https://img.shields.io/badge/Kibana-005571?style=flat&logo=kibana&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
+---
+
+#### AI-Augmented SOAR Pipeline
+**[The Automated Analyst](https://github.com/UA4R/The-Automated-Analyst-Building-an-AI-Augmented-SOAR-Pipeline-on-AWS)**
+
+![AWS EC2](https://img.shields.io/badge/AWS-EC2-FF9900?style=flat&logo=amazonaws&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-24.04_LTS-E95420?style=flat&logo=ubuntu&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-Enterprise-000000?style=flat&logo=splunk&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-Workflow_Automation-EA4B71?style=flat&logo=n8n&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-Anthropic_API-D97757?style=flat&logo=anthropic&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-Notifications-4A154B?style=flat&logo=slack&logoColor=white)
+![Python](https://img.shields.io/badge/Python-paramiko-3776AB?style=flat&logo=python&logoColor=white)
+
+---
+
+#### SOAR / EDR Automation
+**[Isolation Status](https://github.com/UA4R/Isolation-Status-SOAR-EDR-Project)**
+
+![AWS EC2](https://img.shields.io/badge/AWS-EC2-FF9900?style=flat&logo=amazonaws&logoColor=white)
+![Windows Server](https://img.shields.io/badge/Windows_Server-2022-0078D6?style=flat&logo=windows&logoColor=white)
+![LimaCharlie](https://img.shields.io/badge/LimaCharlie-EDR-1E2A38?style=flat&logoColor=white)
+![Tines](https://img.shields.io/badge/Tines-SOAR-000000?style=flat&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-Notifications-4A154B?style=flat&logo=slack&logoColor=white)
+![xsquare](https://img.shields.io/badge/xsquare-Dummy_Email-6C757D?style=flat&logoColor=white)
+![LaZagne](https://img.shields.io/badge/LaZagne-HackTool-8B0000?style=flat&logoColor=white)
+
+</details>
 
 ## Get in Touch 📬
 
