@@ -29,8 +29,10 @@ Cyber Threat Interlligence, Cyber Security Assessment, Governance Risk and Compl
 <td>
 <img src="https://img.shields.io/badge/AWS-EC2-FF9900?style=flat&logo=amazonaws&logoColor=white">
 <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=white">
+<br>
 <img src="https://img.shields.io/badge/Logstash-005571?style=flat&logo=logstash&logoColor=white">
 <img src="https://img.shields.io/badge/Kibana-005571?style=flat&logo=kibana&logoColor=white">
+<br>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black">
 </td>
@@ -41,10 +43,13 @@ Cyber Threat Interlligence, Cyber Security Assessment, Governance Risk and Compl
 <td>
 <img src="https://img.shields.io/badge/AWS-EC2-FF9900?style=flat&logo=amazonaws&logoColor=white">
 <img src="https://img.shields.io/badge/Ubuntu-24.04_LTS-E95420?style=flat&logo=ubuntu&logoColor=white">
+<br>
 <img src="https://img.shields.io/badge/Splunk-Enterprise-000000?style=flat&logo=splunk&logoColor=white">
 <img src="https://img.shields.io/badge/n8n-Workflow_Automation-EA4B71?style=flat&logo=n8n&logoColor=white">
+<br>
 <img src="https://img.shields.io/badge/Claude-Anthropic_API-D97757?style=flat&logo=anthropic&logoColor=white">
 <img src="https://img.shields.io/badge/Slack-Notifications-4A154B?style=flat&logo=slack&logoColor=white">
+<br>
 <img src="https://img.shields.io/badge/Python-paramiko-3776AB?style=flat&logo=python&logoColor=white">
 </td>
 </tr>
@@ -54,10 +59,13 @@ Cyber Threat Interlligence, Cyber Security Assessment, Governance Risk and Compl
 <td>
 <img src="https://img.shields.io/badge/AWS-EC2-FF9900?style=flat&logo=amazonaws&logoColor=white">
 <img src="https://img.shields.io/badge/Windows_Server-2022-0078D6?style=flat&logo=windows&logoColor=white">
+<br>
 <img src="https://img.shields.io/badge/LimaCharlie-EDR-1E2A38?style=flat&logoColor=white">
 <img src="https://img.shields.io/badge/Tines-SOAR-000000?style=flat&logoColor=white">
+<br>
 <img src="https://img.shields.io/badge/Slack-Notifications-4A154B?style=flat&logo=slack&logoColor=white">
 <img src="https://img.shields.io/badge/xsquare-Dummy_Email-6C757D?style=flat&logoColor=white">
+<br>
 <img src="https://img.shields.io/badge/LaZagne-HackTool-8B0000?style=flat&logoColor=white">
 </td>
 </tr>
