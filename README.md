@@ -16,7 +16,7 @@ Cyber Threat Interlligence, Cyber Security Assessment, Governance Risk and Compl
 
 ## My Projects 💻
 <details>
-<summary><strong>🛡️ SOC Analyst</strong> — **3 projects**</summary>
+<summary><strong>🛡️ SOC Analyst</strong> — 3 projects</summary>
 
 #### SIEM / SOC Investigation
 **[Catching the Intruder](https://github.com/UA4R/Catching-The-Intruder-ELK-Based-SOC-Investigation)**
