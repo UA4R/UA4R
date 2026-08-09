@@ -18,7 +18,7 @@ Cyber Threat Interlligence, Cyber Security Assessment, Governance Risk and Compl
 <details>
 <summary><strong>🛡️ SOC Analyst</strong> — 3 projects</summary>
 
-#### SIEM / SOC Investigation
+#### Detection Investigation
 **[Catching the Intruder](https://github.com/UA4R/Catching-The-Intruder-ELK-Based-SOC-Investigation)**
 
 ![AWS EC2](https://img.shields.io/badge/AWS-EC2-FF9900?style=flat&logo=amazonaws&logoColor=white)
@@ -30,7 +30,7 @@ Cyber Threat Interlligence, Cyber Security Assessment, Governance Risk and Compl
 
 ---
 
-#### AI-Augmented SOAR Pipeline
+#### Automation Pipeline
 **[The Automated Analyst](https://github.com/UA4R/The-Automated-Analyst-Building-an-AI-Augmented-SOAR-Pipeline-on-AWS)**
 
 ![AWS EC2](https://img.shields.io/badge/AWS-EC2-FF9900?style=flat&logo=amazonaws&logoColor=white)
@@ -43,7 +43,7 @@ Cyber Threat Interlligence, Cyber Security Assessment, Governance Risk and Compl
 
 ---
 
-#### SOAR / EDR Automation
+#### Response
 **[Isolation Status](https://github.com/UA4R/Isolation-Status-SOAR-EDR-Project)**
 
 ![AWS EC2](https://img.shields.io/badge/AWS-EC2-FF9900?style=flat&logo=amazonaws&logoColor=white)
