@@ -6,7 +6,6 @@ I'm a passionate SOC Analyst with depth in **[AWS Infrastructure]**. I love tack
 
 - 🌱 Currently learning: **[Solutions Architect]**
 - 🔭 Working on: **[Hands on Diagnosis]**
-- 🌍 Languages: **[English, Spanish, Swahili, Japanese]**
 - 📫 How to reach me: **[Aaron3002@protonmail.com]**
 - ⚡ Fun fact: **[I Love talking about future quantam computing security problems]**
 
