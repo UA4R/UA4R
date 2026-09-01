@@ -9,6 +9,7 @@ I'm a passionate SOC Analyst with depth in **[AWS Infrastructure]**. I love tack
 - 📫 How to reach me: **[Email, LinkedIn]**
 - ⚡ Fun fact: **[I Love talking about future quantam computing security problems]**
 
+Open to connecting with fellow security professionals, mentors and anyone passionate about cybersecurity.
 ## My Skills 🧠
 
 Cyber Threat Interlligence, Cyber Security Assessment, Governance Risk and Compliance, Operation System Administration, Network Security, Networking Hardware, Email Security, Digital Forensics, Malware Protection, IT Service Management, Cloud Computing, Incident Response, Identity and Access Management, Database Management
