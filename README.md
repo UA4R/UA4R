@@ -4,7 +4,7 @@
 
 I'm a passionate SOC Analyst with depth in **[AWS Infrastructure]**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
-- 🌱 Currently learning: **[Solutions Architect]**
+- 🌱 Currently learning: **[Cloud Architecture]**
 - 🔭 Working on: **[Hands on Diagnosis]**
 - 📫 How to reach me: **[Email, LinkedIn]**
 - ⚡ Fun fact: **[I Love talking about future quantam computing security problems]**
